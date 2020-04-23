@@ -314,11 +314,3 @@ a:hover{
 
 /* --------end of last section --------- */
 
-@media only screen and (max-width: 576px) {
-    header{
-        display: none;
-    }
-    body{
-        background-image: url('images/background-mobile.png') no-repeat;
-    }
-}
